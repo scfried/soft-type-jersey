@@ -214965,7 +214965,7 @@ unicode = 772;
 {
 color = 9;
 glyphname = commaturnedabovecomb;
-lastChange = "2023-12-04 17:51:18 +0000";
+lastChange = "2023-12-18 18:38:51 +0000";
 layers = (
 {
 anchors = (
@@ -214979,13 +214979,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (60,840);
-ref = pixel;
-},
-{
-alignment = -1;
-angle = 180;
-pos = (30,840);
+pos = (60,810);
 ref = pixel;
 },
 {
@@ -214997,19 +214991,25 @@ ref = pixel;
 {
 alignment = -1;
 angle = 180;
-pos = (0,810);
-ref = pixel;
-},
-{
-alignment = -1;
-angle = 180;
-pos = (-30,780);
+pos = (30,780);
 ref = pixel;
 },
 {
 alignment = -1;
 angle = 180;
 pos = (0,780);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (-30,750);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (0,750);
 ref = pixel;
 },
 {
@@ -215027,31 +215027,7 @@ ref = pixel;
 {
 alignment = -1;
 angle = 180;
-pos = (60,720);
-ref = pixel;
-},
-{
-alignment = -1;
-angle = 180;
-pos = (30,720);
-ref = pixel;
-},
-{
-alignment = -1;
-angle = 180;
-pos = (0,750);
-ref = pixel;
-},
-{
-alignment = -1;
-angle = 180;
 pos = (0,720);
-ref = pixel;
-},
-{
-alignment = -1;
-angle = 180;
-pos = (-30,750);
 ref = pixel;
 },
 {
@@ -215099,13 +215075,13 @@ ref = pixel;
 {
 alignment = -1;
 angle = 180;
-pos = (60,750);
+pos = (60,720);
 ref = pixel;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (30,750);
+pos = (30,720);
 ref = pixel;
 }
 );
@@ -215117,7 +215093,7 @@ unicode = 786;
 {
 color = 9;
 glyphname = commaaccentcomb;
-lastChange = "2023-12-04 17:51:18 +0000";
+lastChange = "2023-12-18 18:38:42 +0000";
 layers = (
 {
 anchors = (
@@ -215129,12 +215105,7 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (-60,-270);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (-30,-270);
+pos = (-60,-240);
 ref = pixel;
 },
 {
@@ -215144,17 +215115,22 @@ ref = pixel;
 },
 {
 alignment = -1;
-pos = (0,-240);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (30,-210);
+pos = (-30,-210);
 ref = pixel;
 },
 {
 alignment = -1;
 pos = (0,-210);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (30,-180);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,-180);
 ref = pixel;
 },
 {
@@ -215169,27 +215145,7 @@ ref = pixel;
 },
 {
 alignment = -1;
-pos = (-60,-150);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (-30,-150);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (0,-180);
-ref = pixel;
-},
-{
-alignment = -1;
 pos = (0,-150);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (30,-180);
 ref = pixel;
 },
 {
@@ -215229,12 +215185,12 @@ ref = pixel;
 },
 {
 alignment = -1;
-pos = (-60,-180);
+pos = (-60,-150);
 ref = pixel;
 },
 {
 alignment = -1;
-pos = (-30,-180);
+pos = (-30,-150);
 ref = pixel;
 }
 );
