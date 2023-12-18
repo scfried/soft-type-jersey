@@ -1,7 +1,7 @@
 <h1>The Soft Type Collection, Jersey</h1>
 
 <h5>The Typeface</h5>
-<p>Jersey is a sporty, versitile sans-serif typeface, knittable at various sizes. It is available as a variable font whose axis is resolution!</p>
+<p>Jersey is a sporty, versitile sans-serif typeface, knittable at various sizes.</p>
 
 <h5>The Collection</h5>
 <p>Soft Type is a collection of typefaces designed for knitting color-work. Each typeface has a “Regular” and “Charted” version and some include multiple scales so you can fit type on your knits, no matter the project's size. </p>
