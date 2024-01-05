@@ -42708,7 +42708,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Jersey 10 Project Authors (https://github.com/scfried/soft-type-jersey)";
+value = "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)";
 }
 );
 },
