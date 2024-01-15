@@ -1,5 +1,7 @@
 <h1>The Soft Type Collection, Jersey</h1>
 
+![Sample of JERSEY](documentation/soft-type-collection-promo-JERSEY-2-Standard.png)
+
 <h5>The Typeface</h5>
 <p>Jersey is a sporty, versitile sans-serif typeface, knittable at various sizes.</p>
 
