@@ -1,10 +1,6 @@
 {
-.appVersion = "3234";
+.appVersion = "3151";
 .formatVersion = 3;
-DisplayStrings = (
-"Resolution 217 A (III) vom 10.12.1948 Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz que intrínseca aspiracióáćéí/jacute ńóŕśúẃýź´ón más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu: Yora ¿Un huatiromanmun? senenhas\"honra IQUl, JONÍ Él barbàrie consciència creença, rebel·lió aut̀ònom, països TUÁKAR AÚJMATISAMU pu]ustinrin, thë wã maõpë, TOTIHITAWË Ã kuŋ en’thiConsiderînd c̆ă recunoașterea demnității GENERALĂ DECLARAȚIE În ce6 Birleşmiş Asambleyasının Basıl̂êr İlerlemä Ayl̈ä— tegnì dùthchannan, KEDEŊGA Xiskuamana, sẽn [Missing] pœga, Considerând – Pieņemta pasludināta Ģenerālās rezolūciju Ņemot vērā sabiedrības locekļiem piemītošās reliģiskās, atšķirības ierobežota Šīs Īstenojot iđi Đalo WALINKAÑAPATAKI E'~mbi čačipa bipaćape “raica qali.” hō'ē 3-'E tina¿;¡ju ďekesi ‘bukuluŋ. Ďeďekarikin juỳu & Övertügen, nateûre égåls, s-ôtes vre̊ymint secretario.general@interlingua.com GWIRIOÙ nüxü̃́ nai>>ctaxa gğģġ̆ăğŭğıyom Çımiku po'ñoc̈h DPImanuśenqe famělia aspirŕcia trąden rňdel teritor̋űqesqiri, maźutipen naśărdől Âaj procedůra. d´fhiacha -2» į žmonių giminės są̌žinę, Įgyvendindamas Òmma Ês kontraŭ tjuta! Ó KU`OTENESE đồng Åtta éyaltai{ab Enyiń bǎsí atâ Það þetta réttlætis lýst, ese_ejja UNIVERSÈLE DREÛTS eşit doğarlar. İnsan BAŞ ASSAMBLEÝA HUKUKLARYNYŇ d’Ànerkannùng Ìn Ïa ľných tešiť SHROMAŽDENIE Čo tia;/backslash ui. bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy « ła Ła = OPĆOJ AÐALFUNDURIN Øll ‘Ōlelo NĀ n° gban̄gba, přirozené wónÿuú © għall-maskil, tal-paċi ż-żebliħ ġabu tal-Ġnus Ħadd enupa,…) pruckamakir+t ZWAŻYWSZY, | KkÕõ ĘęGg TtÔô Śś",
-"̈   ̇  ̀  ́  ̋  /caroncomb.alt   ̂  ̌  ̆  ̊  ̃   ̄  ̒  ̦ ̧ ̨ "
-);
 classes = (
 {
 automatic = 1;
@@ -32038,11 +32034,272 @@ width = 525;
 {
 color = 6;
 glyphname = .notdef;
-lastChange = "2023-12-04 14:07:41 +0000";
+lastChange = "2024-03-07 12:48:39 +0000";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+pos = (75,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,525);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,375);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,225);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,75);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (75,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (225,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,525);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,375);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,225);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,75);
+ref = pixel;
+},
+{
+alignment = -1;
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,75);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,225);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,375);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,525);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (225,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,675);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (225,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,525);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,375);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,225);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (375,75);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,75);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (225,75);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,75);
+ref = pixel;
+}
+);
+width = 600;
 }
 );
 },
