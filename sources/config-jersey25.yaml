@@ -1,4 +1,5 @@
 sources:
   - Jersey25.glyphs
 familyName: Jersey 25
-#buildOTF: false
+buildOTF: false
+extraFontmakeArgs: --filter "ufo2ft.filters.decomposeComponents::DecomposeComponentsFilter"
