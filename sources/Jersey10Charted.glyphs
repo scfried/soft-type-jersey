@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3326";
 .formatVersion = 3;
 classes = (
 {
@@ -240198,5 +240198,5 @@ value = "https://openfontlicense.org";
 );
 unitsPerEm = 1400;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

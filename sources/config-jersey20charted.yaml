@@ -2,3 +2,4 @@ sources:
   - Jersey20Charted.glyphs
 familyName: Jersey 20 Charted
 buildOTF: false
+extraFontmakeArgs: --filter "ufo2ft.filters.decomposeComponents::DecomposeComponentsFilter"
